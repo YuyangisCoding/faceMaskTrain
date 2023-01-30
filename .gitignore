@@ -1,1 +1,6 @@
 /.idea/
+aug_data.yaml
+aug_data_label.yaml
+preprocessed_data.csv
+test.ipynb
+test_data_for_aug.yaml
